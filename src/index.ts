@@ -1,4 +1,5 @@
-// TODO: provalo anche con DENO !!
+// Video youtube da cui prendo spunto: https://www.youtube.com/watch?v=_pWA4rbzvIg
+// TODO: provalo anche con DENO !! Deno.bench per benchmark
 
 let ourArr: string[] = [];
 const ourSet: Set<string> = new Set<string>();  //TODO: const or let?
